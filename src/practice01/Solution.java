@@ -8,6 +8,7 @@ public class Solution {
 		String answer = "";
 		Arrays.sort(participants); //오름차순 정리
 		Arrays.sort(completion); //오름차순 정리
+		// TEST 주석
 
 		int i=0;
 
