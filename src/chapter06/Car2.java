@@ -2,7 +2,7 @@ package chapter06;
 
 public class Car2 {
 
-    //필드
+    //필드생성
     String model;
     int speed;
 
